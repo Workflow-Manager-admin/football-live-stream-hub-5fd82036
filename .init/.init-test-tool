@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/football-live-stream-hub-5fd82036/football_frontend_app"
+}
